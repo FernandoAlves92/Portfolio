@@ -1064,17 +1064,16 @@ However, a notable distinction arises in the median values for the same metrics.
 Lastly, an evaluation of likes, comments, and shares per view was conducted to assess the correlation between views and engagement metrics in each classification. The results once again emphasize that "banned" and "under review" authors receive more engagement per view, as follows:
 
 Median Likes per View:
-
 Active: 0.25
 Banned: 0.32
 Under review: 0.29
-Median Comments per View:
 
+Median Comments per View:
 Active: 0.0004
 Banned: 0.0006
 Under review: 0.0006
-Median Shares per View:
 
+Median Shares per View:
 Active: 0.038
 Banned: 0.048
 Under review: 0.045
