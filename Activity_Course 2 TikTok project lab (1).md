@@ -40,7 +40,6 @@ Additionally, I will maintain close contact with Data and Business leaders, revi
 In this Task, I will import the pandas and numpy libraries to assis with calculations, data structures and statistical analysis.
 
 ```python
-# Import packages
 ### YOUR CODE HERE ###
 
 import pandas as pd
@@ -51,7 +50,6 @@ Then, I will load the dataset into a dataframe. Creating a dataframe will help y
 
 
 ```python
-# Load dataset into dataframe
 data = pd.read_csv("tiktok_dataset.csv")
 ```
 
