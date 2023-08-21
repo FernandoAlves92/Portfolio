@@ -1,4 +1,4 @@
 title: Fernando Alves
-logo: src="assets/1649081473315.jpg"
+logo: ./assets/1649081473315.jpg"
 show_downloads: False
 theme: jekyll-theme-minimal
