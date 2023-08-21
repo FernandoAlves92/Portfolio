@@ -1,6 +1,6 @@
 # Advanced Data Analyst and Strategy Expert
 
-Linkedin: https://www.linkedin.com/in/fhalves/
+Linkedin:[(Fernando Alves)](https://www.linkedin.com/in/fhalves/)
 
 #### Technical Skills: SQL; Python; Google Big Query; Data Studio; Tableau; Power BI; Advanced Analytics; Financial Modeling; Valuations; experience with R.
 
