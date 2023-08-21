@@ -17,11 +17,7 @@ Linkedin: https://www.linkedin.com/in/fhalves/
 ###  Tiktok Data preparation for Machine Learning Model - Course based [(Link)](https://github.com/FernandoAlves92/Portfolio/blob/bd8ef2c1ddadd6f69a961868a4625c6a0aa14a3e/Activity_Course%202%20TikTok%20project%20lab%20(1).md)
 - **Background:** TikTok users have the ability to submit reports that identify videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. The process generates a large number of user reports that are challenging to consider in a timely manner.
 TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
-
-
 - **Goal:** Is to construct a dataframe in Python, perform a cursory inspection of the provided dataset, and inform TikTok data team members of your findings.
-
-  
 - **Results:** I identified some correlations between Claims and Opinions classifications and presented statistical analysis to the team (more on the link). This will accelerate the development of a Machine Learning that can predict which submitions are likely to be Claims or Opinions, helping Tiktok to manage review subissions in a timely manner. 
 
 ###  AI Advisory platform
@@ -52,9 +48,4 @@ TikTok is working on the development of a predictive model that can determine wh
 - **Background:** One of ATB's major overarching objective revolved around providing business clients with custom-tailored advice that aligns with their unique situations and business lifecycles. This impetus led to the establishment of a novel department tasked with devising innovative products and tools to elevate the quality of advice extended to the client base.
 - **Goal:** My primary aim was to collaborate closely with the newly formed Advisory department. Together, we embarked on the mission of conceptualizing, testing, and  developing the dashboard. Plus training team members to proficiently navigate it. This dashboard was meticulously designed to present data insights to team members, thereby empowering them to engage in meaningful conversations with clients.
 - **Results:** While implementing the dashboard and training team members less familiar with data insights posed significant challenges, we were able to develop innovative solutions. Through insightful interviews, utilization of the Financial Milestone Map, and leveraging in-depth comprehension of client needs combined with data modeling expertise, we achieved a remarkable feat. Over 50 team members were adeptly trained in using the dashboard. This training not only elevated their financial and data literacy levels but also equipped them to deliver proactive advice that resonated profoundly with each client's distinct business context. This project showcased how bridging data and advisory expertise can enhance client engagement and empower informed decision-making.
-
-###  Segmentation at ATB Financial
-- **Background:**
-- **Goal:**
-- **Results:**
 
