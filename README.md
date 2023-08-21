@@ -30,9 +30,11 @@ TikTok is working on the development of a predictive model that can determine wh
 - **Results:** By conducting interviews and delivering group training, we successfully identified and mitigated the obstacles impeding team members from adopting the tool. Concurrently, we established regular meetings with the data team, facilitating the documentation and development of over 15 new ML models. Additionally, we devised a feedback process that stimulated model refinement through team member training. The culmination of these efforts yielded resounding success. The AI advisory tool emerged as the biggest revenue-generating platform by supporting team members during sales interactions and ensuring timely product offerings to clients. This achievement underscored the transformative potential of data-driven solutions in optimizing sales and enhancing client satisfaction.
 
 ###  Client Retention Machine Learning Model
-- **Background:**
-- **Goal:**
-- **Results:**
+- **Background:** ATB Financial confronted the challenge of retaining a segment of its small business client base, especially as they advanced to more accelerated growth stages. Despite conducting exit client interviews, the precise reasons behind the majority of departing clients remained elusive, largely limited to psychological factors (such as perceived superiority of competitors or occasional service hiccups).
+- **Goal:**  My team and I embarked on a mission to develop a machine learning model capable of predicting clients who might consider shifting to competitors. This would allow us the opportunity to engage with them before they executed the move.
+- **Results:**  I spearheaded the complete development lifecycle of the "Churn" ML model, collaborating closely with our AI team. This encompassed defining the data triggers indicative of a client's intent to migrate to a competitor, selecting relevant factors for integration into the ML model, and ultimately launching the model within the AI platform. The process extended to training team members on effectively initiating conversations with clients and providing feedback to fine-tune the model.
+
+  As a result of these endeavors, we proactively engaged with 7-10% of the client base, resulting in a notable reduction in churn rate. Additionally, the model's insights unveiled that clients predominantly departed due     to concerns related to our product offerings. Armed with this information, I presented to our product team, highlighting the misalignment of our product lineup with market demands. This revelation substantiated our        subsequent efforts in product rationalization, leading us to review and optimize all banking offers based on prevailing market requirements. This comprehensive approach helped align our products more effectively with      the dynamic needs of our clientele.
 
 ###  Marketing leads pipeline
 - **Background:**
