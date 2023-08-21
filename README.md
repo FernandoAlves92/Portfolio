@@ -9,7 +9,7 @@ Linkedin:[(Fernando Alves)](https://www.linkedin.com/in/fhalves/)
 - Google Professional Data Analytics Certificate | Feb 2023
 - Machine Learning Foundations 1 and 2 - Alberta Machine Learning Institute | Sep 2022
 - Certifified Business Valuation (CBV) Module 1 | Nov 2020
-- Master of Business Administration (MBA) - Univeristy of Alberta | May 2018
+- Master of Business Administration (MBA) - University of Alberta | May 2018
 
 
 ## Some examples of work projects 
