@@ -49,9 +49,9 @@ TikTok is working on the development of a predictive model that can determine wh
   ensued as a result of these initiatives. This demonstrated the tangible impact of leveraging data insights to enhance client engagement and drive revenue growth.
 
 ###  Business Advisory Dashboard
-- **Background:**
-- **Goal:**
-- **Results:**
+- **Background:** One of ATB's major overarching objective revolved around providing business clients with custom-tailored advice that aligns with their unique situations and business lifecycles. This impetus led to the establishment of a novel department tasked with devising innovative products and tools to elevate the quality of advice extended to the client base.
+- **Goal:** My primary aim was to collaborate closely with the newly formed Advisory department. Together, we embarked on the mission of conceptualizing, testing, and  developing the dashboard. Plus training team members to proficiently navigate it. This dashboard was meticulously designed to present data insights to team members, thereby empowering them to engage in meaningful conversations with clients.
+- **Results:** While implementing the dashboard and training team members less familiar with data insights posed significant challenges, we were able to develop innovative solutions. Through insightful interviews, utilization of the Financial Milestone Map, and leveraging in-depth comprehension of client needs combined with data modeling expertise, we achieved a remarkable feat. Over 50 team members were adeptly trained in using the dashboard. This training not only elevated their financial and data literacy levels but also equipped them to deliver proactive advice that resonated profoundly with each client's distinct business context. This project showcased how bridging data and advisory expertise can enhance client engagement and empower informed decision-making.
 
 ###  Segmentation at ATB Financial
 - **Background:**
