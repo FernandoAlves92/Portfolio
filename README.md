@@ -27,7 +27,10 @@ TikTok is working on the development of a predictive model that can determine wh
 ###  AI Advisory platform
 - **Background:** ATB Financial had implemented an AI tool aimed at providing suggestions to client-facing team members about topics to discuss with clients. The client base emcompassed more than 90,000 small business onwers. These advice suggestions were derived from client data, including transactional history and profile information. This customization enabled tailoring advice based on predicted client situations and product needs. However, a significant adoption challenge emerged. Team members showed reluctance in utilizing the tool, leading to missed sales and advisory opportunities. This, in turn, affected potential revenue growth and the overall client experience.
 - **Goal:** My team and I embarked on a mission to comprehend the underlying barriers hampering widespread adoption. Our objectives encompassed the creation of new Machine Learning (ML) models and collaborating with the data team to enhance model refinement through increased feedback channels.
-- **Results:** By conducting interviews and delivering group training, we successfully identified and mitigated the obstacles impeding team members from adopting the tool. Concurrently, we established regular meetings with the data team, facilitating the documentation and development of over 15 new ML models. Additionally, we devised a feedback process that stimulated model refinement through team member training. The culmination of these efforts yielded resounding success. The AI advisory tool emerged as the biggest revenue-generating platform by supporting team members during sales interactions and ensuring timely product offerings to clients. This achievement underscored the transformative potential of data-driven solutions in optimizing sales and enhancing client satisfaction.
+- **Results:** By conducting interviews and delivering group training, we successfully identified and mitigated the obstacles impeding team members from adopting the tool. Concurrently, we established regular meetings with the data team, facilitating the documentation and development of over 15 new ML models. Additionally, we devised a feedback process that stimulated model refinement through team member training. The culmination of these efforts yielded resounding success.
+
+  The AI advisory tool emerged as the biggest revenue-generating platform by supporting team members during sales interactions and ensuring timely product offerings to clients. This achievement underscored the           
+  transformative potential of data-driven solutions in optimizing sales and enhancing client satisfaction.
 
 ###  Client Retention Machine Learning Model
 - **Background:** ATB Financial confronted the challenge of retaining a segment of its small business client base, especially as they advanced to more accelerated growth stages. Despite conducting exit client interviews, the precise reasons behind the majority of departing clients remained elusive, largely limited to psychological factors (such as perceived superiority of competitors or occasional service hiccups).
@@ -36,10 +39,14 @@ TikTok is working on the development of a predictive model that can determine wh
 
   As a result of these endeavors, we proactively engaged with 7-10% of the client base, resulting in a notable reduction in churn rate. Additionally, the model's insights unveiled that clients predominantly departed due     to concerns related to our product offerings. Armed with this information, I presented to our product team, highlighting the misalignment of our product lineup with market demands. This revelation substantiated our        subsequent efforts in product rationalization, leading us to review and optimize all banking offers based on prevailing market requirements. This comprehensive approach helped align our products more effectively with      the dynamic needs of our clientele.
 
-###  Marketing leads pipeline
-- **Background:**
-- **Goal:**
-- **Results:**
+###  Sales leads pipeline
+- **Background:** Among my initial undertakings at ATB Financial in Data Analytics and Strategy, I embarked on the creation of a Financial Milestone map. This innovative map was designed to pinpoint the business growth stage of clients based on their financial transaction data. The insights derived from this map enabled us to offer proactive guidance to clients, thus elevating their satisfaction scores. Intriguingly, a deeper exploration revealed that the Financial Milestones map held the potential to bolster our marketing and sales endeavors.
+- **Goal:** The principal objective was to harness the transaction data of our clients to develop strategic sales opportunities. Moreover, I aimed to explore potential additional data points that could contribute to the construction of a robust sales pipeline, ultimately augmenting revenue generation.
+- **Results:** I successfully constructed a financial model within our database, focusing on clients whose account balance accounted for less than 20% of their monthly free cash flow. This designation indicated clients with restricted available cash, possibly necessitating injections of capital or financial products to address the shortfall. I overlaid this dataset with information about clients who visited the ATB Financial website and exhibited engagement with loan-related pages.
+
+  Leveraging the conjunction of these two key data points – identifying clients in need of cash and displaying interest in loan products – I formulated a targeted sales pipeline. This pipeline was disseminated to our   
+  sales team members, empowering them to establish connections and proactively engage with clients to ascertain their business well-being. The outcome was remarkable: a notable 37% surge in phone sales conversion rates 
+  ensued as a result of these initiatives. This demonstrated the tangible impact of leveraging data insights to enhance client engagement and drive revenue growth.
 
 ###  Business Advisory Dashboard
 - **Background:**
