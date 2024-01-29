@@ -1,4 +1,4 @@
-# **Capstone project: Machinle learning churn model for HR**
+# **Capstone project: Machine Learning churn model for HR**
 
 ## Description if the project
 
@@ -38,6 +38,7 @@ salary|The employee's salary (U.S. dollars)
 ### Reflect on these questions as you complete the plan stage.
 
 *  Who are your stakeholders for this project?
+  A: The stakeholders
 - What are you trying to solve or accomplish?
 - What are your initial observations when you explore the data?
 - What resources do you find yourself using as you complete this stage? (Make sure to include the links.)
