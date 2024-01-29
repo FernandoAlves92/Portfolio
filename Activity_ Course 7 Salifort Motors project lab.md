@@ -1,4 +1,4 @@
-# **Capstone project: Providing data-driven suggestions for HR**
+# **Capstone project: Machinle learning churn model for HR**
 
 ## Description if the project
 
