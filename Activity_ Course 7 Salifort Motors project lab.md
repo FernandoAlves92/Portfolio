@@ -1,7 +1,7 @@
 # **Machine Learning project: Providing a churn model and insights to HR**
 
 ## Description 
-(Note: The data and content provided for this analysis do not belong to me)
+(Note: The data and content provided for this analysis belong to Google Certificate)
 
 This capstone project is an opportunity for me to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
 
