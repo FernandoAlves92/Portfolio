@@ -1739,25 +1739,10 @@ xgb_cv_test_scores
 ```
 
 
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr>
       <th></th>
       <th>model</th>
       <th>precision</th>
@@ -1780,7 +1765,6 @@ xgb_cv_test_scores
   </tbody>
 </table>
 </div>
-
 
 
 in summary the XGBoost model presented better evaluation results compared to Random Forest
